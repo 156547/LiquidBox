@@ -1,0 +1,64 @@
+body,h1,h2,h3,p,td,quote,small,form,input,ul,li,ol,label,textarea{
+	margin:0px;
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+	margin:20px auto;
+	font-size:13px;
+	background-color:#cccccc;
+}
+h1 {text-align:center;}
+.container{
+	background-color:#ffffff;
+	max-width:780px;
+	margin:20px auto;
+}
+
+.header{
+	background-color:#ffffff;
+	width:780px;
+	margin:20px auto;
+	color:#0000ff;
+}
+
+.centre{
+	background-color:#ffffff;
+	margin:20px auto;
+	color:#0000ff;
+	padding: 5px;
+}
+.textarea form{
+	width:60%;
+}
+
+.textarea form textarea{
+	background-color:#ffffff;
+	margin:20px auto;
+	color:#0000ff;
+	padding: 5px;
+}
+
+table,td,th{
+	border:1px solid #0000ff;
+	padding: 3px;
+}
+table{
+	width:60%;
+}
+
+img {
+	width: 70px;
+	height: 70px;
+}
+.delete{
+	color:red;
+	text-align:center;
+}
+
+a { 
+	padding-left: 10px;
+	text-decoration:none;
+	font-size:14px;
+}

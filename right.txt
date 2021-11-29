@@ -1,0 +1,1 @@
+"We're heading to Spring now" is read from a text file on the server. Text files can be useful to store data.
